@@ -1,0 +1,20 @@
+*.class
+
+.idea/
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.war
+*.ear
+
+bin/
+
+# Recorded sound
+*.wav
+
+*.iml
+
+.classpath
+.project
